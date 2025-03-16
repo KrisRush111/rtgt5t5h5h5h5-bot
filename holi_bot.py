@@ -12,7 +12,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.client.default import DefaultBotProperties
 
 TOKEN = "7809691512:AAHmFFAGkXu34oW3IujqoTcTmiwzs66Hwe0"
-SERVER_URL = "https://server-for-holi-60nu.onrender.com/save_user"
+SERVER_URL = "https://server-for-holi-111.onrender.com/save_user"
 MENU_URL = "https://krisrush111.github.io/Holiarus-11/"
 
 bot = Bot(token=TOKEN)
